@@ -28,6 +28,30 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajashekarredde&" alt="rajashekarredde" /></p>
 
-<hr></hr>
 
-<h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
+<h2> 👨‍🎓🙋‍♂️ About Me : </h2>
+
+Hello Viewer 😎!
+
+I'm actively😥 looking for full-time opportunities😁 in software development👨🏻‍💻, distributed systems and full stack🥞 development starting from December 2023. I have significant coursework📚 in these fields and have a strong passion😍 for them.
+
+<b>Short Intro for  me :</b>
+
+I am Rajashekar Reddy Kommula, a Software Engineering masters🎓 student at San Jose State University🏫. I enjoy delving into various fields and strive to learn as much as I can. Although it may appear a bit overwhelming❤️‍🔥 at times, I find it fascinating! 😁
+
+I am a programmer👨🏻‍💻 and more into distributed systems and full stack development but yeah, can't miss problem solving❓⚠️, the best part of being a programmer.
+
+Also, if you wanna know my work so far as a programmer:
+
+🎯 HackerRank problem solving certified
+🎯 6🌟 on codechef
+🎯 Have worked on varied projects & technologies 🤩
+
+<b>Skills 👻:</b><br><br>
+<b>Languages:</b> C, C++, Python, Java<br>
+<b>Operating Systems:</b> Linux, Windows, macOS<br>
+<b>Databases:</b> MySQL, Redis, MongoDB, PostgreSQL<br>
+<b>Web Technologies:</b> HTML5, CSS3, PHP, Bootstrap, Rest API, GraphQL, Apache Kafka<br>
+<b>Frameworks:</b> NodeJS, React.js, Redux, Express, Passport.js<br>
+<b>Deployment:</b> AWS Cloud (S3, RDS, EC2, ECS, Beanstalk), GCP, Docker, Kubernetes<br>
+<b>Tools:</b> Git, Eclipse, Visual Studio Code, JIRA, Postman, JMeter, Mocha, Junit.<br>
