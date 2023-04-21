@@ -28,4 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajashekarredde&" alt="rajashekarredde" /></p>
 
+<hr></hr>
+
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
