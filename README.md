@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajashekarredde&show_icons=true&locale=en" alt="rajashekarredde" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajashekarredde&" alt="rajashekarredde" /></p>
+
+<h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
